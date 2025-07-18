@@ -21,8 +21,8 @@ cd IP-Changer
 Using `curl`:
 
 ```shell
-curl -O 'https://raw.githubusercontent.com/Just-Hacked-On/IP-Changer/main/IP%20Changer.sh'
-chmod +x IP%20Changer.sh
+curl -O 'https://raw.githubusercontent.com/Just-Hacked-On/IP-Changer/main/IP-Changer.sh'
+chmod +x IP-Changer.sh
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ chmod +x IP%20Changer.sh
 Run the script with root privileges:
 
 ```shell
-sudo ./IP-Changer.sh
+sudo bash IP-Changer.sh
 ```
 
 The script allows you to choose:
