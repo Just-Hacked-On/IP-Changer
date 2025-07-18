@@ -15,6 +15,7 @@ Using :
 
 ```shell
 git clone https://github.com/Just-Hacked-On/IP-Changer.git
+ls
 cd IP-Changer
 ```
 
