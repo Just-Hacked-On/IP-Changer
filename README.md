@@ -11,10 +11,10 @@ It works by sending a signal to the Tor service to switch to a new circuit, givi
 
 You can either `git clone` the repository or `curl` the Bash script.
 
-Using `git clone`:
+Using :
 
 ```shell
-https://github.com/Just-Hacked-On/IP-Changer.git
+git clone https://github.com/Just-Hacked-On/IP-Changer.git
 cd IP-Changer
 ```
 
