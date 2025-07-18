@@ -4,7 +4,8 @@ IP Changer by Just Hacked On is a Bash script that automatically changes your pu
 
 It works by sending a signal to the Tor service to switch to a new circuit, giving you a new IP each time without restarting your network or Tor service.
 
-![gp](https://ibb.co/PGkLXbtC)
+![gp]
+(https://ibb.co/PGkLXbtC)
 
 ## Installation
 
@@ -13,7 +14,7 @@ You can either `git clone` the repository or `curl` the Bash script.
 Using `git clone`:
 
 ```shell
-git clone https://github.com/Just-Hacked-On/IP-Changer.git
+https://github.com/Just-Hacked-On/IP-Changer.git
 cd IP-Changer
 ```
 
