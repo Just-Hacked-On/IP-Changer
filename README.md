@@ -21,7 +21,7 @@ Using `curl`:
 
 ```shell
 curl -O 'https://raw.githubusercontent.com/Just-Hacked-On/IP-Changer/main/IP%20Changer.sh'
-chmod +x IP-Changer.sh
+chmod +x IP%20Changer.sh
 ```
 
 ## Usage
