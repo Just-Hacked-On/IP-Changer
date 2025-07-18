@@ -3,6 +3,8 @@
 IP Changer by Just Hacked On is a Bash script that automatically changes your public IP address using the Tor network. It’s built for security researchers, privacy-conscious users, and ethical hackers who want to anonymize their traffic while working online.
 
 It works by sending a signal to the Tor service to switch to a new circuit, giving you a new IP each time without restarting your network or Tor service.
+# 💻 Platform
+**Windows (Tested on Windows 10/11)**
 
 ![gp]( https://github.com/user-attachments/assets/390c18ab-1119-49d1-9721-afac1728b439 )
 
