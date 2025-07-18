@@ -14,7 +14,7 @@ Using `git clone`:
 
 ```shell
 git clone https://github.com/Just-Hacked-On/IP-Changer.git
-cd IP Changer
+cd IP-Changer
 ```
 
 Using `curl`:
